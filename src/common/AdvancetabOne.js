@@ -12,19 +12,19 @@ const AdvancetabOne = () => {
                                 <Tab>
                                     <div className="tab-button">
                                         <h4 className="title">stateofmind.ai</h4>
-                                        <p className="description">Use Doob template you can build a corporate website a short time.</p>
+                                        <p className="description">Software Engineer -Karnataka</p>
                                     </div>   
                                 </Tab>
                                 <Tab>
                                     <div className="tab-button">
                                         <h4 className="title">IMS Pvt. Ltd.</h4>
-                                        <p className="description">Use Doob template you can build a corporate website a short time.</p>
+                                        <p className="description">FrontEnd Developer-Gurugram,India.</p>
                                     </div>   
                                 </Tab>
                                 <Tab>
                                     <div className="tab-button">
-                                        <h4 className="title">Novarsistech- IT Leading</h4>
-                                        <p className="description">Use Doob template you can build a corporate website a short time.</p>
+                                        <h4 className="title">Novarsistech- IT Leading </h4>
+                                        <p className="description">ReactJs Developer -Indore</p>
                                     </div>   
                                 </Tab>
                             </TabList>
@@ -36,6 +36,19 @@ const AdvancetabOne = () => {
                                 <div className="tab-content">
                                     <div className="inner">
                                         <div className="thumbnail">
+                                        <ul>
+                                            <li>Developed REST APIs and implemented authentication protocols, such as OAuth, to securely expose data to
+clients. Implemented a microservices architecture that improved system modularity and reduced dependencies
+between components</li> 
+<li>Leveraged GitHub Actions to orchestrate and automate CI/CD pipelines, enabling seamless integration,
+testing, and deployment of code changes across environments on AWS.  </li>
+<li>Implemented infrastructure-as-code ,
+allowing for scalable and reproducible infrastructure deployments on AWS.</li>
+<li>Developed custom automation
+frameworks combining technologies such as Angular, Node.js, and GitHub Actions to automate manual tasks
+and reduce human error. For example, Schedulers Automation,Survey Execution.</li>
+<li> Utilized Google App Engine and Cloud Run for deploying and managing client microservices.</li>
+                                        </ul>
                                          </div>
                                     </div>
                                 </div>
@@ -45,6 +58,15 @@ const AdvancetabOne = () => {
                                 <div className="tab-content">
                                     <div className="inner">
                                         <div className="thumbnail">
+                                            <ul>
+                                                <li>Developed a custom UI library that increased developer productivity and code reuse. Working on developing
+features in projects (node.js, PHP ,Reactjs.)</li>
+<li>Developing and maintaining code pipelines for code deployment using company Dedicated hosting server.</li>
+<li>Developed Custom API and integrating clients APIs to the projects.Creating Admin Dashboard with Web APi
+integrations</li>
+<li> Creating Admin Dashboard with Web APi integrations .</li>
+<li>Collaborated with development teams to gather requirements, design, and develop custom  tools.</li>
+                                            </ul>
                                               </div>
                                     </div>
                                 </div>
@@ -53,7 +75,18 @@ const AdvancetabOne = () => {
                             <TabPanel>
                                 <div className="tab-content">
                                     <div className="inner">
-                                        <div className="thumbnail">
+                                        <div className="thumbnail"> 
+                                        <ul>
+                                            <li>Working on developing new functionality in projects.</li>
+                                            <li> Developing and maintaining code pipelines for code deployment using different Technologies.</li>
+                                            <li>Integrating Monitoring tools, Security Scanners with GitHub Actions workflows.</li>
+                                            <li>Working on deployments, validations and configurations in the Projects.</li>
+                                            <li>Orchestrated containerized applications using Docker on AWS, enabling seamless deployment and scaling 
+of microservices. </li>
+<h3>Close Calls:</h3> <br/>
+<li> Work with Marketing Teams. </li>
+<li>Content writing</li>
+                                        </ul>
                                           </div>
                                     </div>
                                 </div>
