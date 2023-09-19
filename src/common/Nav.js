@@ -17,14 +17,14 @@ const Nav = () => {
             </li>
 
             <li className="has-droupdown"><Link to="/work">Work</Link>
-                <ul className="submenu">
+                {/* <ul className="submenu">
                     <li><Link to="/reactjs-project">React js Project</Link></li>
                     <li><Link to="/devops-projects">DevOps</Link></li>
                     <li><Link to="/gcp-based">GCP Based</Link></li>
                     <li><Link to="/vitejs-project">Vite.Js</Link></li>
                     <li><Link to="/other-project">Others</Link></li>
-                    {/* <li><Link to="/e-commerce">E-Commerce</Link></li> */}
-                </ul>
+                    <li><Link to="/e-commerce">E-Commerce</Link></li>
+                </ul> */}
             </li>
             <li className="has-droupdown"><Link to="/books">Books & papers</Link>
              

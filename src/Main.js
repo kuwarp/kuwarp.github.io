@@ -4,6 +4,7 @@ import './App.css'
 import  {Navbar, Homepage,Footer,  Evolution, Management, Careers, Contact}  from '../src/components'
 
 import {Banking,Commercial,Ecom,Education,HrServices,Warehouse} from '../src/components/Evolutions'
+import Work from './components/Evolutions/Work'
 const Main = () => {
   return (
    <main className="page-wrapper" >
@@ -22,7 +23,7 @@ const Main = () => {
            {/* Evoultion Links */}
            <Route exact path='/automated-hr-services' element={<HrServices />}/>
          
-           <Route exact path='/blog-api' element={<Banking />}/>
+           <Route exact path='/work' element={<Work />}/>
            <Route exact path='/r-e-project-solution' element={<Commercial />}/>
            <Route exact path='/educations' element={<Education />}/>
            <Route exact path='/e-commerce' element={<Ecom />}/>

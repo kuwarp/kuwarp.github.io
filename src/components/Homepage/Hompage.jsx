@@ -1,28 +1,31 @@
-import React from 'react'
+import React,{useState, useEffect} from 'react'
 import kpabout from "../../assets/images/kp-about.png"
 import SectionTitle from '../../common/SectionTitle'
 import AdvancetabOne from '../../common/AdvancetabOne'
 import TabOne from '../../common/TabOne'
 
-const BannerData = [
-  {
-      image: "/images/hp.jpg",
-      title: "Performance Edge ",
-      description: "We help our clients succeed by creating brand identities, digital experiences, and print materials."
-  },
-  {
-      image: "/images/h2.png",
-      title: "Performance Edge ",
-      description: "We help our clients succeed by creating brand identities, digital experiences, and print materials."
-  },
-  {
-    image: "/images/h3.png",
-    title: "Performance Edge ",
-    description: "We help our clients succeed by creating brand identities, digital experiences, and print materials."
-}
+// const BannerData = [
+//   {
+//       image: "/images/hp.jpg",
+//       title: "Performance Edge ",
+//       description: "We help our clients succeed by creating brand identities, digital experiences, and print materials."
+//   },
+//   {
+//       image: "/images/h2.png",
+//       title: "Performance Edge ",
+//       description: "We help our clients succeed by creating brand identities, digital experiences, and print materials."
+//   },
+//   {
+//     image: "/images/h3.png",
+//     title: "Performance Edge ",
+//     description: "We help our clients succeed by creating brand identities, digital experiences, and print materials."
+// }
 
-]
+// ]
+
+
 const Hompage = () => {
+ 
   return (
 //     <div className=' page-wrapper'>
 //   <Slider className="slider-area  slider-style-4 " {...BannerActivation}>
@@ -87,6 +90,7 @@ const Hompage = () => {
                         </div>
                     </div>
                 </div>
+               
                 <div className="rwt-about-area rn-section-gap">
             <div className="container">
                 <div className="row row--30 align-items-center">
@@ -138,6 +142,7 @@ const Hompage = () => {
                         </div>
                         <AdvancetabOne />
                     </div>
+
                 </div>
                 <div className="rwt-tab-area rn-section-gap">
                     <div className="container">

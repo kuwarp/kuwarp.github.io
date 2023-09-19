@@ -1,4 +1,4 @@
-export {default as Banking} from './Banking'
+export {default as Banking} from './Work'
 export {default as Commercial} from './Commercial'
 export {default as Ecom} from './Ecom'
 export {default as Education} from './Education'
