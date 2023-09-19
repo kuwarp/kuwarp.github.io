@@ -34,7 +34,7 @@ function ContactForm({props , formStyle}) {
     //     showresult(false);
     // }, 5000);
     const formRef = useRef(null)
-    const scriptUrl = ""
+    const scriptUrl = "https://script.google.com/macros/s/AKfycbx78MIE3H7k3Vg8HBRGCFe26W08zQQ1vSozLdknw6kZkuI9Q05JNyddVHSfHUUu3t8W/exec"
     // const [loading, setLoading] = useState(false)
     
     const handleSubmit = (e) =>{
@@ -59,7 +59,7 @@ function ContactForm({props , formStyle}) {
             <div className="form-group ">
                 <input 
                 type="text"
-                name="Name"
+                name="name"
                 placeholder="Your Name"
                 required
                 className='bg-outline-primary'
@@ -69,7 +69,7 @@ function ContactForm({props , formStyle}) {
             <div className="form-group">
                 <input 
                 type="email"
-                name="Email"
+                name="email"
                 placeholder="Email Address"
                 required
                 />
@@ -78,7 +78,7 @@ function ContactForm({props , formStyle}) {
             <div className="form-group">
                 <input 
                 type="text"
-                name="Phone"
+                name="phone"
                 placeholder="Phone Number"
                 required
                 />
@@ -88,7 +88,7 @@ function ContactForm({props , formStyle}) {
             <div className="form-group">
                 <input 
                 type="text"
-                name="Subject"
+                name="subject"
                 placeholder="Subject"
                 required
                 />
@@ -96,7 +96,7 @@ function ContactForm({props , formStyle}) {
 
             <div className="form-group">
                 <textarea 
-                name="Message"
+                name="message"
                 placeholder="Your Message"
                 required
                 >
