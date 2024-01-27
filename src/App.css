@@ -1,0 +1,13 @@
+
+@media screen and (min-width:860px) {
+    .hero-bg{
+        background-image: url('../public/images/kps.gif');
+        /* style={{backgroundImage: `url(${process.env.PUBLIC_URL}/images/kps.gif)`}} */
+    }
+}
+@media (min-width:300px) and (max-width:450px) {
+ .hero-bg{
+    /* background: hidden; */
+    background-color: rgb(16, 16, 16) !important;
+ }   
+}
