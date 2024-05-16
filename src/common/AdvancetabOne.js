@@ -11,8 +11,8 @@ const AdvancetabOne = () => {
                             <TabList className="tab-button-list">
                                 <Tab>
                                     <div className="tab-button">
-                                        <h4 className="title">stateofmind.ai</h4>
-                                        <p className="description">Software Engineer -Karnataka</p>
+                                        <h4 className="title">Eamot </h4>
+                                        <p className="description">Software Engineer[FrontEnd Developer] -Gurugram,India</p>
                                     </div>   
                                 </Tab>
                                 <Tab>
@@ -24,7 +24,7 @@ const AdvancetabOne = () => {
                                 <Tab>
                                     <div className="tab-button">
                                         <h4 className="title">Novarsistech- IT Leading </h4>
-                                        <p className="description">ReactJs Developer -Indore</p>
+                                        <p className="description">ReactJs Developer -Indore,India</p>
                                     </div>   
                                 </Tab>
                             </TabList>
@@ -37,17 +37,14 @@ const AdvancetabOne = () => {
                                     <div className="inner">
                                         <div className="thumbnail">
                                         <ul>
-                                            <li>Developed REST APIs and implemented authentication protocols, such as OAuth, to securely expose data to
-clients. Implemented a microservices architecture that improved system modularity and reduced dependencies
-between components</li> 
+                                            <li>Developed REST APIs and Managed the Dashboard code, make changes as per client Needs. Working on scheduled tickets</li> 
+                                            <li>Making Attractive Ui, creating unique tools like extracting data from pdf and mapped to custom defined field , creating pipeline to display data into various components. </li>
 <li>Leveraged GitHub Actions to orchestrate and automate CI/CD pipelines, enabling seamless integration,
 testing, and deployment of code changes across environments on AWS.  </li>
 <li>Implemented infrastructure-as-code ,
 allowing for scalable and reproducible infrastructure deployments on AWS.</li>
-<li>Developed custom automation
-frameworks combining technologies such as Angular, Node.js, and GitHub Actions to automate manual tasks
-and reduce human error. For example, Schedulers Automation,Survey Execution.</li>
-<li> Utilized Google App Engine and Cloud Run for deploying and managing client microservices.</li>
+<li>. Developed custom automation frameworks combining technologies such as Reactjs,LightSail, and GitHub Actions to automate manual tasks and reduce human error. For example, Schedulers Automation, deploy scripts</li>
+{/* <li> Utilized Google App Engine and Cloud Run for deploying and managing client microservices.</li> */}
                                         </ul>
                                          </div>
                                     </div>
