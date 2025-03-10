@@ -18,18 +18,17 @@ const Main = () => {
           <Route exact path='/' element={<Homepage />}/>
            <Route exact path='/about-me' element={<Evolution />}/>
            <Route exact path='/teams' element={<Management />}/>
-           <Route exact path='/careers' element={<Careers />}/>
+          
            <Route exact path='/contact' element={<Contact />}/>
 
 
            {/* Evoultion Links */}
-           <Route exact path='/automated-hr-services' element={<HrServices />}/>
+           
          
            <Route exact path='/work' element={<Work />}/>
-           <Route exact path='/r-e-project-solution' element={<Commercial />}/>
+           
            <Route exact path='/educations' element={<Education />}/>
-           <Route exact path='/e-commerce' element={<Ecom />}/>
-           <Route exact path='/retail-warehouse' element={<Warehouse />}/>
+           
           </Routes>
           <Footer/>
           <div className=" darkmode-container">

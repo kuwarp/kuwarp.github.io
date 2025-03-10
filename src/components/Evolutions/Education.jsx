@@ -32,7 +32,7 @@ const Education = () => {
                                       <a href='https://glitchofcode.hashnode.dev/' rel='noreferrer' target='_blank'>
                         <div className="thumbnail">
                             {/* <img src={kpabout} alt="About Images" /> */}
-                            <h1 className='bg-gradient theme-gradient p-3'> GlitchofCode</h1>
+                            <h1 className=' text-warning  p-3'> GlitchofCode</h1>
                         </div> 
                         </a>
                     </div>
