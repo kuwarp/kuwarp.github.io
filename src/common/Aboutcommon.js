@@ -34,7 +34,8 @@ const Aboutcommon = () => {
                                     <li><FiMapPin /> India</li>
                                 </ul>
                                 <div className="download-button mt--20">
-                                    <a className="btn-read-more" target='_blank' rel='noreferrer' href="https://drive.google.com/file/d/1SbKWZvAoA1hwi9bHeR5rt30NphK7xyX3/view?usp=sharing"><span>Download My CV</span></a>
+                                    <a className="btn-read-more" target='_blank' rel='noreferrer' href=""><span>Download My CV</span></a>
+    // https://drive.google.com/file/d/1SbKWZvAoA1hwi9bHeR5rt30NphK7xyX3/view?usp=sharing
                                 </div>
                             </div>
                         </div>
