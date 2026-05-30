@@ -22,7 +22,7 @@ const Education = () => {
             <div className="col-lg-10 offset-lg-1">
                 <div className="row row--0 about-wrapper align-items-center theme-shape">
                     <div className="col-lg-6">
-                    <a href='https://blog.kubekode.org/' rel='noreferrer' target='_blank' >
+                    <a href='https://blog.kubekode.io/' rel='noreferrer' target='_blank' >
                      <div className="thumbnail">
                             <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1698198642448/He44qlHG8.png?w=1000&h=250&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="About Images" />
                         </div> 
